@@ -28,6 +28,9 @@
  */
 
 var rules = {
+   "~*x jake ~*y": [
+    "How is l&t, do you like kline?."
+  ],
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
   ],
