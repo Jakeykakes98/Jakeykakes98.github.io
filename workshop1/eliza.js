@@ -28,6 +28,9 @@
  */
 
 var rules = {
+   "~*x Diarrhea ~*y": [
+    "Your body needs to absorb more water."
+   ],
    "~*x jake ~*y": [
     "How is l&t, do you like kline?."
   ],
